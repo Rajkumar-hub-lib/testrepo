@@ -1,0 +1,12 @@
+https://get.enterprisedb.com/postgresql/postgresql-9.5.22-1-windows-x64.exe
+
+https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.0.M13/bin/apache-tomcat-9.0.0.M13.exe
+
+https://mirrors.estointernet.in/apache//ant/binaries/apache-ant-1.9.15-bin.zip
+
+https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
+
+https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.3.9/apache-maven-3.3.9-bin.zip
+
+https://github-releases.githubusercontent.com/3743376/ca2a8856-7a5e-11e8-953a-1c15ec270a4c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210713T121540Z&X-Amz-Expires=300&X-Amz-Signature=ea11e904e47ce8942ad65721fde2d5f52de25022c13aececa505bf90c1e6328a&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=3743376&response-content-disposition=attachment%3B%20filename%3Ddspace-6.3-src-release.zip&response-content-type=application%2Foctet-stream
+
